@@ -1,0 +1,46 @@
+.title{
+    font-size: 30px;
+    background-color: tomato;
+    text-align: center;
+    border: 2px solid DodgerBlue;
+    font-family: cursive;
+}
+
+#p1{
+    font-size: 20px;
+    font-family:cursive;
+    margin-left: 50px;
+}
+
+.misamarti{
+    position: relative;
+
+}
+
+.live{
+    font-size: 30px;
+    
+    
+}
+
+.cloud{
+    width: 500px;
+    height: 300px;
+    margin-left: 420px;
+
+}
+
+.text{
+    text-align: center;
+    margin-top: -230px;
+    color: red;
+    font-size: large;
+}
+
+p {
+    color: white;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
